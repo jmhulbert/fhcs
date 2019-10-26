@@ -1,7 +1,5 @@
 ---
-title: "FHCS"
-author: "Joey Hulbert"
-date: "October 26, 2019"
+title: "Forest Health Citizen Science Community"
 output: html_document
 ---
 
@@ -9,22 +7,72 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+![](Files/Images/landscape_header_image.jpg)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Welcome
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relavent to the community. 
 
-```{r cars}
-summary(cars)
-```
+## Join the community
 
-## Including Plots
+Anyone working in the space between forest health and society is welcome to join.
 
-You can also embed plots, for example:
+Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visiting the [Groups.io page (https://groups.io/g/ForestHealthCitSci)](https://groups.io/g/ForestHealthCitSci) or by emailing the subscibe email listed below: 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* Group Email Addresses
+  +  Post: ForestHealthCitSci@groups.io
+  +  Subscribe: ForestHealthCitSci+subscribe@groups.io
+  +  Unsubscribe: ForestHealthCitSci+unsubscribe@groups.io
+  +  Group Owner: ForestHealthCitSci+owner@groups.io
+  +  Help: ForestHealthCitSci+help@groups.io
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<div class="classictemplate template" style="display: block;">
+<style type="text/css">
+  #groupsio_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+  #groupsio_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+  #groupsio_embed_signup .email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+  #groupsio_embed_signup {
+    background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
+  }
+  #groupsio_embed_signup .button {
+
+      width:25%; margin:0 0 10px 0; min-width:90px;
+      background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+      background-repeat: repeat-x;
+      border-color: #245580;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);
+      padding: 5px 10px;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 3px;
+      color: #fff;
+      background-color: #337ab7;
+      display: inline-block;
+      margin-bottom: 0;
+      font-weight: 400;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+</style>
+<div id="groupsio_embed_signup">
+<form action="https://groups.io/g/ForestHealthCitSci/signup?u=7774195255691388821" method="post" id="groupsio-embedded-subscribe-form" name="groupsio-embedded-subscribe-form" target="_blank">
+    <div id="groupsio_embed_signup_scroll">
+      <label for="email" id="templateformtitle">Subscribe to our group</label>
+      <input type="email" value="" name="email" class="email" id="email" placeholder="email address" required="">
+    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7774195255691388821" tabindex="-1" value=""></div>
+    <div id="templatearchives"></div>
+    <input type="submit" value="Subscribe" name="subscribe" id="groupsio-embedded-subscribe" class="button">
+  </div>
+</form>
+</div>
+</div>
+
+## Slack Community
+Join the conversation in the slack community.
+
+
+## Github page. 
+Anyone is welcome to collaborate and add to the [github repository](https://github.com/jmhulbert/fhcs) for this page. 
