@@ -41,7 +41,7 @@ Anyone is welcome to collaborate and add to the [github repository](https://gith
 
 ## List of Forest Health Citizen Science Projects
 
-*Add your project to this list by adding to the [.csv file](https://github.com/jmhulbert/fhcs/files/data/ProjectList.csv) or by emailing the details to <ForestHealthCitSci@gmail.com>.* 
+*Add your project to this list by adding to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv) or by emailing the details to <ForestHealthCitSci@gmail.com>.* 
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/ProjectList.csv")
