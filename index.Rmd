@@ -22,10 +22,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r include=FALSE}
+library(git2r)
 library(tidyverse)
 library(knitr)
 library(kableExtra)
 ```
+
 
 ![](files/images/landscape_header_image.jpg)
 
@@ -62,7 +64,7 @@ ProjectList <- read.csv("./files/data/ProjectList.csv")
 kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "90%", height = "400px")
 ```
 
-You can cite this table as: Hulbert J., Barton M., Castagneyrol B., Oraizo C.,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
+You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit:  https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
 
 Currently the individuals who shared projects in the google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](https://github.com/jmhulbert/fhcs) will be added to the citation.
 
