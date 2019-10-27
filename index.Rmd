@@ -26,6 +26,7 @@ library(git2r)
 library(tidyverse)
 library(knitr)
 library(kableExtra)
+repo <- repository()
 ```
 
 
@@ -33,13 +34,15 @@ library(kableExtra)
 
 # Welcome
 
-Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relavent to the community by the community. 
+Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relevant to the community by the community. 
 
-## Join the Community
+## Join the Community {.tabset .tabset-fade}
 
 Anyone working in the space between forest health and society is welcome to join.
 
-Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visiting the [Groups.io page (https://groups.io/g/ForestHealthCitSci)](https://groups.io/g/ForestHealthCitSci) or by emailing the subscibe email listed below: 
+### Mailing List
+
+Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visiting the [Groups.io page (https://groups.io/g/ForestHealthCitSci)](https://groups.io/g/ForestHealthCitSci) or by emailing the subscribe email listed below: 
 
 * Group Email Addresses
   +  Post: ForestHealthCitSci@groups.io
@@ -47,25 +50,65 @@ Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visitin
   +  Unsubscribe: ForestHealthCitSci+unsubscribe@groups.io
   +  Group Owner: ForestHealthCitSci+owner@groups.io
   +  Help: ForestHealthCitSci+help@groups.io
+  
+Note that you do *not* need a groups.io account to subscribe.
 
-## Slack Community
+### Slack Community
 
 Please contact <ForestHealthCitSci@gmail.com> to join the discussion in the [Slack Community](https://foresthealthcitsci.slack.com). 
 
-## Github Page 
+Note that you need a slack account to join the Slack Community.
+
+### Github Repository
+
 Anyone is welcome to collaborate and add to the [github repository (https://github.com/jmhulbert/fhcs)](https://github.com/jmhulbert/fhcs) for this page. 
+
+
+Note that you need a github account to collaborate on github.
 
 ## List of Forest Health Citizen Science Projects
 
-> *Add your project to this list by adding to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv) or by emailing the details to <ForestHealthCitSci@gmail.com>.* 
+> **Have a project to add to this list?** *Share it with the community (ForestHealthCitSci@groups.io), add it to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv), or email the details to <ForestHealthCitSci@gmail.com>.* 
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/ProjectList.csv")
-kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "90%", height = "400px")
 ```
 
-You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit:  https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
+The projects below are listed alphabetically. There are currently `r length(ProjectList$Project)` projects listed below. Email <ForestHealthCitSci@gmail.com> for corrections.
+```{r echo=FALSE}
+kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "95%", height = "700px") #valign?
+```
 
-Currently the individuals who shared projects in the google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](https://github.com/jmhulbert/fhcs) will be added to the citation.
+You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit ID:`r str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis ="")`,  https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
+
+```{r include=FALSE}
+commits(repo)[[1]]
+last_commit(repo)
+as.data.frame(last_commit(repo))
+str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis = "")
+```
+
+Currently the individuals who shared projects in the Google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](https://github.com/jmhulbert/fhcs) will also be added to the citation.
 
 ![](files/images/sudden_oak_death_footer_image.jpg){width=100%}
+
+## Community Publications
+(more coming soon) 
+
+> **Have publications or articles to share here?** *Share them with the community (ForestHealthCitSci@groups.io), add them to the [Github Repository](https://github.com/jmhulbert/fhcs/), or email the details to <ForestHealthCitSci@gmail.com>.*
+
+* Peer-reviewed publications (listed alphabetically)
+    + Bates, A. J., P. Lakeman Fraser, L. Robinson, J. C. Tweddle, J. P. Sadler, S. E. West, S. Norman, M. Batson, and L. Davies. 2015. *The OPAL bugs count survey: exploring the effects of urbanisation and habitat characteristics using citizen science.* Urban Ecosystems 18:1477–1497.
+    + Brown, N., F. van den Bosch, S. Parnell, and S. Denman. 2017. *Integrating regulatory surveys and citizen science to map outbreaks of forest diseases: acute oak decline in England and Wales.* Proceedings of the Royal Society B: Biological Sciences 284:20170547.
+    + Meentemeyer, R. K., M. A. Dorning, J. B. Vogler, D. Schmidt, and M. Garbelotto. 2015. *Citizen science helps predict risk of emerging infectious disease.* Frontiers in Ecology and the Environment 13:189–194.
+    + Thomas, M. L., N. Gunawardene, K. Horton, A. Williams, S. O’Connor, S. McKirdy, and J. van der Merwe. 2017. *Many eyes on the ground: citizen science is an effective early detection tool for biosecurity.* Biological Invasions 19:2751–2765.
+    + **Your publications here.**
+
+* Online reports
+    + Gupta, N., and Slawson, D., 2019. *Tree Health Citizen Science in UK: Opportunities, Challenges and Future Roadmap.* Imperial College, London.
+    + **Your reports here.**
+
+* Popular articles
+    + Garbelotto M. 2019. [Citizen science making a difference for California](https://www.dailycal.org/2019/10/04/citizen-science-making-a-difference-for-california/)
+    + Hulbert J, Roets F. 2017. [Citizen science: how ordinary people can guard Cape Town’s biodiversity](https://theconversation.com/citizen-science-how-ordinary-people-can-guard-cape-towns-biodiversity-87373)
+    + **Your articles here.**
