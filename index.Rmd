@@ -49,15 +49,19 @@ Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visitin
 Please contact <ForestHealthCitSci@gmail.com> to join the discussion in the [Slack Community](https://foresthealthcitsci.slack.com). 
 
 ## Github page. 
-Anyone is welcome to collaborate and add to the [github repository](https://github.com/jmhulbert/fhcs) for this page. 
+Anyone is welcome to collaborate and add to the [github repository (https://github.com/jmhulbert/fhcs)](https://github.com/jmhulbert/fhcs) for this page. 
 
 ## List of Forest Health Citizen Science Projects
 
-*Add your project to this list by adding to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv) or by emailing the details to <ForestHealthCitSci@gmail.com>.* 
+> *Add your project to this list by adding to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv) or by emailing the details to <ForestHealthCitSci@gmail.com>.* 
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/ProjectList.csv")
-kable(ProjectList,align="c") %>% kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "100%", height = "400px") #
+kable(ProjectList,align="c") %>% kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "90%", height = "400px")
 ```
 
 You can cite this table as: Hulbert J. “Forest Health Citizen Science Project List” FHCS (`r format(Sys.Date(), "%Y")`). https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
+
+Anyone is welcome to add to the project list. Collaborators will be added to the citation. 
+
+![](files/images/sudden_oak_death_footer_image.jpg){width=100%}
