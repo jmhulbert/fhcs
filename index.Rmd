@@ -1,6 +1,8 @@
 ---
 title: "Forest Health Citizen Science Community"
-output: html_document
+output: 
+  html_document:
+    theme: lumen
 ---
 
 <head>
@@ -29,9 +31,9 @@ library(kableExtra)
 
 # Welcome
 
-Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relavent to the community. 
+Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relavent to the community by the community. 
 
-## Join the community
+## Join the Community
 
 Anyone working in the space between forest health and society is welcome to join.
 
@@ -48,7 +50,7 @@ Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visitin
 
 Please contact <ForestHealthCitSci@gmail.com> to join the discussion in the [Slack Community](https://foresthealthcitsci.slack.com). 
 
-## Github page. 
+## Github Page 
 Anyone is welcome to collaborate and add to the [github repository (https://github.com/jmhulbert/fhcs)](https://github.com/jmhulbert/fhcs) for this page. 
 
 ## List of Forest Health Citizen Science Projects
@@ -57,11 +59,11 @@ Anyone is welcome to collaborate and add to the [github repository (https://gith
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/ProjectList.csv")
-kable(ProjectList,align="c") %>% kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "90%", height = "400px")
+kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "90%", height = "400px")
 ```
 
-You can cite this table as: Hulbert J. “Forest Health Citizen Science Project List” FHCS (`r format(Sys.Date(), "%Y")`). https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
+You can cite this table as: Hulbert J., Barton M., Castagneyrol B., Oraizo C.,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. https://github.com/jmhulbert/fhcs. Accessed: `r format(Sys.Date(), "%B %e, %Y")`
 
-Anyone is welcome to add to the project list. Collaborators will be added to the citation. 
+Currently the individuals who shared projects in the google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](https://github.com/jmhulbert/fhcs) will be added to the citation.
 
 ![](files/images/sudden_oak_death_footer_image.jpg){width=100%}
