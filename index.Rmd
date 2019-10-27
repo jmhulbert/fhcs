@@ -66,6 +66,9 @@ Anyone is welcome to collaborate and add to the [github repository (https://gith
 
 Note that you need a github account to collaborate on github.
 
+##
+![](files/images/sudden_oak_death_image.jpg){width=100%}
+
 ## List of Forest Health Citizen Science Projects
 
 > **Have a project to add to this list?** *Share it with the community (ForestHealthCitSci@groups.io), add it to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv), or email the details to <ForestHealthCitSci@gmail.com>.* 
