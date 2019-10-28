@@ -59,7 +59,7 @@ Please contact <ForestHealthCitSci@gmail.com> to join the discussion in the [Sla
 
 Note that you need a slack account to join the Slack Community.
 
-###Github Repository {#github-repository}
+### Github Repository 
 
 This webpage and the project list below are hosted in a [github repository](https://github.com/jmhulbert/fhcs). 
 
@@ -92,14 +92,14 @@ as.data.frame(last_commit(repo))
 str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis = "")
 ```
 
-Currently the individuals who shared projects in the Google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](#github-repository) will also be added to the citation.
+Currently the individuals who shared projects in the Google form are listed as authors. Anyone is welcome to add to the project list or be included in the citation. Collaborators in the [github repository](https://github.com/jmhulbert/fhcs) will also be added to the citation.
 
 ![](files/images/sudden_oak_death_footer_image.jpg){width=100%}
 
 ## Community Publications
 (more coming soon) 
 
-> **Have publications or articles to share here?** *Share them with the community (ForestHealthCitSci@groups.io), add them to the [Github Repository](#github-repository), or email the details to <ForestHealthCitSci@gmail.com>.*
+> **Have publications or articles to share here?** *Share them with the community (ForestHealthCitSci@groups.io), add them to the [Github Repository](https://github.com/jmhulbert/fhcs), or email the details to <ForestHealthCitSci@gmail.com>.*
 
 * Peer-reviewed publications (listed alphabetically)
     + Bates, A. J., P. Lakeman Fraser, L. Robinson, J. C. Tweddle, J. P. Sadler, S. E. West, S. Norman, M. Batson, and L. Davies. 2015. *The OPAL bugs count survey: exploring the effects of urbanisation and habitat characteristics using citizen science.* Urban Ecosystems 18:1477–1497.
