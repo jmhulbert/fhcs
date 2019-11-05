@@ -70,7 +70,7 @@ Anyone is welcome to collaborate to add or make changes to the [github repositor
 Note that you need a github account to collaborate or make changes. Feel free to contact <ForestHealthCitSci@gmail.com> for additional details or instructions. 
 
 * As a respository collaborator:
-    + You are welcome to clone the repository to your system and work from the R Project (.Rproj file) in Rstudio or you can make changes to the .csv file. 
+    + You are welcome to clone the repository to your system and work from the R Project (.Rproj) file in Rstudio or you can make changes to the .csv file. 
     + You can also make changes directly to the .csv file through your browser.
     + Or you can make changes by downloading the .csv file, altering, commiting and pushing it back to the repository.
 
