@@ -85,6 +85,7 @@ Note that you need a github account to collaborate or make changes. Feel free to
 
 ```{r echo=FALSE}
 ProjectList <- read.csv("./files/data/ProjectList.csv")
+ProjectList <- arrange(ProjectList,Project)
 ```
 
 The projects below are listed alphabetically. There are currently `r length(ProjectList$Project)` projects listed below. Email <ForestHealthCitSci@gmail.com> for corrections.
