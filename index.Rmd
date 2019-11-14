@@ -112,6 +112,9 @@ Currently the individuals who shared projects in the Google form are listed as a
 > **Have publications or articles to share here?** *Share them with the community (ForestHealthCitSci@groups.io), add them to the [Github Repository](https://github.com/jmhulbert/fhcs), or email the details to <ForestHealthCitSci@gmail.com>.*
 
 * Peer-reviewed publications (listed by publication year)
+    + Caley, P., M. Welvaert, and S. C. Barry. 2019. *Crowd surveillance: estimating citizen science reporting probabilities for insects of biosecurity concern*. [Journal of Pest Science, 1-8](https://link.springer.com/article/10.1007%2Fs10340-019-01115-7).
+    + Crocker, E., B. Condon, A. Almsaeed, B. Jarret, C. D. Nelson, A. G. Abbott, D. Main, and M. Staton. 2019. *TreeSnap: A citizen science app connecting tree enthusiasts and forest scientists*. [Plants, People, Planet 0:1–6](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.41).
+    + Baker, E., M. J. Jeger, J. D. Mumford, and N. Brown. 2018. *Enhancing plant biosecurity with citizen science monitoring: comparing methodologies using reports of acute oak decline*. [Journal of Geographical Systems 21:111–131](https://link.springer.com/article/10.1007%2Fs10109-018-0285-2).
     + Thomas, M. L., N. Gunawardene, K. Horton, A. Williams, S. O’Connor, S. McKirdy, and J. van der Merwe. 2017. *Many eyes on the ground: citizen science is an effective early detection tool for biosecurity*. [Biological Invasions 19:2751–2765](https://link.springer.com/article/10.1007/s10530-017-1481-6).
     + Brown, N., F. van den Bosch, S. Parnell, and S. Denman. 2017. *Integrating regulatory surveys and citizen science to map outbreaks of forest diseases: acute oak decline in England and Wales*. [Proceedings of the Royal Society B: Biological Sciences 284:20170547](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0547).
     + Bates, A. J., P. Lakeman Fraser, L. Robinson, J. C. Tweddle, J. P. Sadler, S. E. West, S. Norman, M. Batson, and L. Davies. 2015. *The OPAL bugs count survey: exploring the effects of urbanisation and habitat characteristics using citizen science*. [Urban Ecosystems 18:1477–1497](https://link.springer.com/article/10.1007/s11252-015-0470-8).
@@ -119,8 +122,9 @@ Currently the individuals who shared projects in the Google form are listed as a
     + Ingwell, L. L., and E. L. Preisser. 2011. *Using citizen science programs to identify host resistance in pest-invaded forests*. [Conservation Biology 25:182–188](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/j.1523-1739.2010.01567.x).
     + **Your publications here.**
 
-* Online reports
-    + Gupta, N., and Slawson, D., 2019. *Tree Health Citizen Science in UK: Opportunities, Challenges and Future Roadmap.* [Imperial College, London](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/centre-for-environmental-policy/public/THCS-in-the-UK---Opportunities-,-Challenges-and-Future-Roadmap---Defra-Report-September-2019.pdf).
+* Online reports (PDFs)
+    + Gupta, N., and Slawson, D., 2019. *Tree Health Citizen Science in UK: Opportunities, Challenges and Future Roadmap*. [Imperial College, London](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/centre-for-environmental-policy/public/THCS-in-the-UK---Opportunities-,-Challenges-and-Future-Roadmap---Defra-Report-September-2019.pdf).
+    + Crow, P. 2017. *Observatree Explained: a Layperson's Report*. [Forest Research](https://www.observatree.org.uk/wp-content/uploads/2017/10/Final-Laymans-report.pdf). 
     + **Your reports here.**
 
 * Popular articles (written by community members)
