@@ -93,7 +93,7 @@ The projects below are listed alphabetically. There are currently `r length(Proj
 kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "95%", height = "700px") #valign?
 ```
 
-You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit ID:`r str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis ="")`,  https://github.com/jmhulbert/fhcs. Updated: `r format(Sys.Date(), "%B %e, %Y")`, [DOI:10.5281/zenodo.3541500](https://zenodo.org/record/3541501).
+You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit ID:`r str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis ="")`,  https://github.com/jmhulbert/fhcs. Updated: `r format(Sys.Date(), "%B %e, %Y")`, [DOI:10.5281/zenodo.3572753](https://zenodo.org/record/3572753).
 
 ```{r include=FALSE}
 commits(repo)[[1]]
