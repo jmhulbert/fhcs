@@ -57,9 +57,7 @@ Note that you do *not* need a groups.io account to subscribe.
 
 ### Slack Workspace
 
-You can join our [Slack Workspace](https://foresthealthcitsci.slack.com) at this temporary [link](https://join.slack.com/t/foresthealthcitsci/shared_invite/enQtNzk3MDg0NTk2NDY0LTI4MDQ4OGIxMWJjODdlYjczODhkOTQ2ODE2Y2FiOTQ4ZDgxMTI3YmY5ZTVlMmY1MGQxZTUwMWNhODZiNzQwYjk). However, the invitation in the link will expire on November 14, 2019.
-
-Please contact <ForestHealthCitSci@gmail.com> to join the discussion if the link has expired. 
+You can join our [Slack Workspace](https://foresthealthcitsci.slack.com) at this [link](https://join.slack.com/t/foresthealthcitsci/shared_invite/enQtODU4ODE2MjA5Mzc4LTRjOTc4YzdlNzUwOTk1MDVjMjdhYmFhNTU4NWI2MTk1NWFhM2UzY2M1OThhOGVjYzBiMGRkZjNjYjg1NjVlNzQ).
 
 Note that you need a Slack account to join the Slack Community.
 
@@ -95,7 +93,7 @@ The projects below are listed alphabetically. There are currently `r length(Proj
 kable(ProjectList,align="c") %>% kable_styling(c("striped", "hover", "condensed", "responsive",full_width=F)) %>% scroll_box(width = "95%", height = "700px") #valign?
 ```
 
-You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit ID:`r str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis ="")`,  https://github.com/jmhulbert/fhcs. Updated: `r format(Sys.Date(), "%B %e, %Y")`, DOI:10.5281/zenodo.3541500.
+You can cite this table as: Hulbert J, Barton M, Castagneyrol B, Oraizo C,  Rosemartin A. `r format(Sys.Date(), "%Y")`. “Forest Health Citizen Science Project List” FHCS. Commit ID:`r str_trunc(as.data.frame(last_commit(repo))[[1]],6,ellipsis ="")`,  https://github.com/jmhulbert/fhcs. Updated: `r format(Sys.Date(), "%B %e, %Y")`, [DOI:10.5281/zenodo.3541500](https://zenodo.org/record/3541501).
 
 ```{r include=FALSE}
 commits(repo)[[1]]
