@@ -69,12 +69,18 @@ Anyone is welcome to collaborate to add or make changes to the [github repositor
 
 Note that you need a github account to collaborate or make changes. Feel free to contact <ForestHealthCitSci@gmail.com> for additional details or instructions. 
 
-* As a respository collaborator:
+* As a repository collaborator:
     + You are welcome to clone the repository to your system and work from the R Project (*fhcs.Rproj*) file in Rstudio or you can make changes to the *ProjectList.csv* file. 
     + You can also make changes directly to the .csv file through your browser.
-    + Or you can make changes by downloading the .csv file, altering, commiting and pushing it back to the repository.
+    + Or you can make changes by downloading the .csv file, altering, committing and pushing it back to the repository.
 
 *Note that the Markdown (index.Rmd) file will need to be knit before the changes will be visible on this webpage.*
+
+### Tree Health Citizen Science Network (UK)
+
+Practitioners of tree health focused citizen science projects in the UK are encouraged to also join the [UK Tree Health Citizen Science Network](https://www.observatree.org.uk/about/uk-tree-health-citizen-science-network-2/).
+
+You can also join the conversation on twitter with the hashtag: #treecitsci
 
 ##
 ![](files/images/sudden_oak_death_image.jpg){width=100%}
@@ -112,6 +118,8 @@ Currently the individuals who shared projects in the Google form are listed as a
 
 * Peer-reviewed publications (listed by publication year)
     + **Your publications here.**
+    + Slawson DD, Moffat AJ. 2020. [How Effective Are Citizen Scientists at Contributing to Government Tree Health Public Engagement and Surveillance Needs—An Analysis of the UK Open Air Laboratories (OPAL) Survey Model](https://www.mdpi.com/2075-4450/11/9/550). Insects 11(9):550. 
+    + Garbelotto M, Popenuck T, Hall B, schweigkofler  wolfgang, Dovana F, Goldstein De Salazar R, et al. 2020. [Citizen science uncovers *Phytophthora ramorum* as a threat to several rare or endangered California manzanita species](https://apsjournals.apsnet.org/doi/10.1094/PDIS-03-20-0619-RE). Plant Disease.  
     + Caley, P., M. Welvaert, and S. C. Barry. 2019. [Crowd surveillance: estimating citizen science reporting probabilities for insects of biosecurity concern](https://link.springer.com/article/10.1007%2Fs10340-019-01115-7). *Journal of Pest Science, 1-8*.
     + Crocker, E., B. Condon, A. Almsaeed, B. Jarret, C. D. Nelson, A. G. Abbott, D. Main, and M. Staton. 2019. [TreeSnap: A citizen science app connecting tree enthusiasts and forest scientists](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.41). *Plants, People, Planet 0:1–6*.
     + Baker, E., M. J. Jeger, J. D. Mumford, and N. Brown. 2018. [Enhancing plant biosecurity with citizen science monitoring: comparing methodologies using reports of acute oak decline](https://link.springer.com/article/10.1007%2Fs10109-018-0285-2). *Journal of Geographical Systems 21:111–131*.
@@ -128,7 +136,8 @@ Currently the individuals who shared projects in the Google form are listed as a
     + Gupta, N., and Slawson, D., 2019. [Tree Health Citizen Science in the UK: Opportunities, Challenges and Future Roadmap](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/centre-for-environmental-policy/public/THCS-in-the-UK---Opportunities-,-Challenges-and-Future-Roadmap---Defra-Report-September-2019.pdf). *Imperial College, London*.
     + Crow, P. 2017. [Observatree Explained: a Layperson's Report](https://www.observatree.org.uk/wp-content/uploads/2017/10/Final-Laymans-report.pdf). *Forest Research*. 
 
-* Popular articles (written by community members)
+* Popular articles about projects listed above
     + **Your articles here.**
-    + Garbelotto M. 2019. [Citizen science making a difference for California](https://www.dailycal.org/2019/10/04/citizen-science-making-a-difference-for-california/)
-    + Hulbert J, Roets F. 2017. [Citizen science: how ordinary people can guard Cape Town’s biodiversity](https://theconversation.com/citizen-science-how-ordinary-people-can-guard-cape-towns-biodiversity-87373)
+    + Kinver M. 2020. [Citizen science taps into public's love of trees](https://www.bbc.com/news/science-environment-54106793).
+    + Garbelotto M. 2019. [Citizen science making a difference for California](https://www.dailycal.org/2019/10/04/citizen-science-making-a-difference-for-california/).
+    + Hulbert J, Roets F. 2017. [Citizen science: how ordinary people can guard Cape Town’s biodiversity](https://theconversation.com/citizen-science-how-ordinary-people-can-guard-cape-towns-biodiversity-87373).
