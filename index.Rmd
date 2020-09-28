@@ -44,7 +44,7 @@ Anyone working in the space between forest health and society is welcome to join
 
 ### Mailing List
 
-Subscribe to the [mailing-list](https://groups.io/foresthealthcitsci) by visiting the [Groups.io page (https://groups.io/g/ForestHealthCitSci)](https://groups.io/g/ForestHealthCitSci) or by emailing the subscribe email listed below: 
+Subscribe to the [mailing-list](https://groups.io/g/foresthealthcitsci) by visiting the [Groups.io page (https://groups.io/g/ForestHealthCitSci)](https://groups.io/g/ForestHealthCitSci) or by emailing the subscribe email listed below: 
 
 * Group Email Addresses
   +  Post: ForestHealthCitSci@groups.io
@@ -119,10 +119,10 @@ Currently the individuals who shared projects in the Google form are listed as a
 * Peer-reviewed publications (listed by publication year)
     + **Your publications here.**
     + Slawson DD, Moffat AJ. 2020. [How Effective Are Citizen Scientists at Contributing to Government Tree Health Public Engagement and Surveillance Needs—An Analysis of the UK Open Air Laboratories (OPAL) Survey Model](https://www.mdpi.com/2075-4450/11/9/550). Insects 11(9):550. 
-    + Garbelotto M, Popenuck T, Hall B, schweigkofler  wolfgang, Dovana F, Goldstein De Salazar R, et al. 2020. [Citizen science uncovers *Phytophthora ramorum* as a threat to several rare or endangered California manzanita species](https://apsjournals.apsnet.org/doi/10.1094/PDIS-03-20-0619-RE). Plant Disease.  
-    + Caley, P., M. Welvaert, and S. C. Barry. 2019. [Crowd surveillance: estimating citizen science reporting probabilities for insects of biosecurity concern](https://link.springer.com/article/10.1007%2Fs10340-019-01115-7). *Journal of Pest Science, 1-8*.
+    + Garbelotto M, Popenuck T, Hall B, schweigkofler  wolfgang, Dovana F, Goldstein De Salazar R, et al. 2020. [Citizen science uncovers *Phytophthora ramorum* as a threat to several rare or endangered California manzanita species](https://apsjournals.apsnet.org/doi/10.1094/PDIS-03-20-0619-RE). Plant Disease.      + Caley, P., M. Welvaert, and S. C. Barry. 2019. [Crowd surveillance: estimating citizen science reporting probabilities for insects of biosecurity concern](https://link.springer.com/article/10.1007%2Fs10340-019-01115-7). *Journal of Pest Science, 1-8*.
     + Crocker, E., B. Condon, A. Almsaeed, B. Jarret, C. D. Nelson, A. G. Abbott, D. Main, and M. Staton. 2019. [TreeSnap: A citizen science app connecting tree enthusiasts and forest scientists](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.41). *Plants, People, Planet 0:1–6*.
     + Baker, E., M. J. Jeger, J. D. Mumford, and N. Brown. 2018. [Enhancing plant biosecurity with citizen science monitoring: comparing methodologies using reports of acute oak decline](https://link.springer.com/article/10.1007%2Fs10109-018-0285-2). *Journal of Geographical Systems 21:111–131*.
+    + Graziosi I, Townsend L, Rieske LK (2018). [The EAB Discovery Trail: A Novel Approach to Engage the Public in Emerald Ash Borer Research](https://academic.oup.com/ae/article/64/3/190/5098341). *American Entomologist* 64:190–193.
     + Hallet, R. and T. Hallett. 2018. [Citizen science and tree health assessment: how useful are the data](https://www.fs.usda.gov/treesearch/pubs/57408)? *Arboriculture & Urban Forestry. 44(6): 236–247*.
     + Lione, G., P. Gonthier, and M. Garbelotto. 2017. [Environmental factors driving the recovery of bay laurels from *Phytophthora ramorum* infections: an application of numerical ecology to citizen science](https://www.mdpi.com/1999-4907/8/8/293). *Forests 8(8): 293*.
     + Thomas, M. L., N. Gunawardene, K. Horton, A. Williams, S. O’Connor, S. McKirdy, and J. van der Merwe. 2017. [Many eyes on the ground: citizen science is an effective early detection tool for biosecurity](https://link.springer.com/article/10.1007/s10530-017-1481-6). *Biological Invasions 19:2751–2765*.
