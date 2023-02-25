@@ -34,9 +34,27 @@ repo <- repository()
 
 ![](files/images/landscape_header_image.jpg)
 
-# Welcome
+## Welcome
 
 Welcome to the webpage for the *Forest Health Citizen Science Community*. The sole purpose of this page is to share information relevant to the community by the community.
+
+***
+
+## Announcements
+
+### Join us in Stolkholm, June 2024!
+
+Abstract submissions are open for the [XXVI IUFRO World Congress](https://iufro2024.com/) in Stolkholm, Sweden. The deadline to submit abstracts is June 2, 2023. 
+
+* Please consider submitting an abstract for the below session.
+  + **Public engagement to keep urban trees and communities healthy**
+    + ID: 50013
+    + Session type: Technical (oral and poster presentations welcome)
+    + Congress theme: 4: Forests for sustainable societies
+
+> *Have an additional announcement? Feel free to share it with the community (ForestHealthCitSci@groups.io), update this R Markdown document in the [Github Repository](https://github.com/jmhulbert/fhcs), or email <ForestHealthCitSci@gmail.com>.* 
+
+***
 
 ## Join the Community {.tabset .tabset-fade}
 
@@ -85,6 +103,8 @@ You can also join the conversation on twitter with the hashtag: #treecitsci
 ##
 ![](files/images/sudden_oak_death_image.jpg){width=100%}
 
+***
+
 ## List of Forest Health Citizen Science Projects
 
 > **Have a project to add to this list?** *Share it with the community (ForestHealthCitSci@groups.io), add it to the [.csv file](https://github.com/jmhulbert/fhcs/blob/7abe537b37548a2aa3f0cffe2a85c6763f559be1/files/data/ProjectList.csv), or email the details to <ForestHealthCitSci@gmail.com>.* 
@@ -112,16 +132,20 @@ Currently the individuals who shared projects in the Google form are listed as a
 
 ![](files/images/sudden_oak_death_footer_image.jpg){width=100%}
 
+***
+
 ## Community Publications
 
 > **Have publications or articles to share here?** *Share them with the community (ForestHealthCitSci@groups.io), add them to the [Github Repository](https://github.com/jmhulbert/fhcs), or email the details to <ForestHealthCitSci@gmail.com>.*
 
 * Peer-reviewed publications (listed by publication year)
     + **Your publications here.**
-    + Hulbert JM, Hallett RA, Roy HE and Cleary M (2023) [Citizen science can enhance strategies to detect and manage invasive forest pests and pathogens](https://www.frontiersin.org/articles/10.3389/fevo.2023.1113978/full). Front. Ecol. Evol. 11:1113978. doi: 10.3389/fevo.2023.1113978
-    + Caley P and Barry SC (2022) [The effectiveness of citizen surveillance for detecting exotic vertebrates](https://www.frontiersin.org/articles/10.3389/fevo.2022.1012198/full). Front. Ecol. Evol. 10:1012198. doi: 10.3389/fevo.2022.1012198
-    + de Groot, M., Pocock, M.J.O., Bonte, J. et al. 2023. [Citizen Science and Monitoring Forest Pests: a Beneficial Alliance?](https://link.springer.com/article/10.1007/s40725-022-00176-9#citeas). Curr Forestry Rep 9, 15–32. https://doi.org/10.1007/s40725-022-00176-9
-    + de Groot, M., Ogris, N., van der Meij, M. et al. 2022. [Where to search: the use of opportunistic data for the detection of an invasive forest pest](https://link.springer.com/article/10.1007/s10530-022-02857-9). Biol Invasions 24, 3523–3537. https://doi.org/10.1007/s10530-022-02857-9
+    + Hulbert JM, Hallett RA, Roy HE and Cleary M (2023) [Citizen science can enhance strategies to detect and manage invasive forest pests and pathogens](https://www.frontiersin.org/articles/10.3389/fevo.2023.1113978/full). Front. Ecol. Evol. 11:1113978. doi: 10.3389/fevo.2023.1113978.
+    + Gardiner, M. M., & Roy, H. E. (2022). [The role of community science in entomology](https://www.annualreviews.org/doi/abs/10.1146/annurev-ento-072121-075258). Annual review of entomology, 67, 437-456.
+    + Probert, A. F., Wegmann, D., Volery, L., Adriaens, T., Bakiu, R., Bertolino, S., ... & Bacher, S. (2022). [Identifying, reducing, and communicating uncertainty in community science: a focus on alien species](https://link.springer.com/article/10.1007/s10530-022-02858-8). Biological Invasions, 24(11), 3395-3421.
+    + Caley P and Barry SC (2022) [The effectiveness of citizen surveillance for detecting exotic vertebrates](https://www.frontiersin.org/articles/10.3389/fevo.2022.1012198/full). Front. Ecol. Evol. 10:1012198. doi: 10.3389/fevo.2022.1012198.
+    + de Groot, M., Pocock, M.J.O., Bonte, J. et al. 2023. [Citizen Science and Monitoring Forest Pests: a Beneficial Alliance?](https://link.springer.com/article/10.1007/s40725-022-00176-9#citeas). Curr Forestry Rep 9, 15–32. https://doi.org/10.1007/s40725-022-00176-9.
+    + de Groot, M., Ogris, N., van der Meij, M. et al. 2022. [Where to search: the use of opportunistic data for the detection of an invasive forest pest](https://link.springer.com/article/10.1007/s10530-022-02857-9). Biol Invasions 24, 3523–3537. https://doi.org/10.1007/s10530-022-02857-9.
     + Crow P, Perez-Sierra A, Kavčič A, Lewthwaite K, Kolšek M, Ogris N, Piškur B, Kus Veenvliet J, Zidar S, Sancisi-Frey S and de Groot M. 2020. [Using Citizen Science to monitor the spread of tree pests and diseases: outcomes of two projects in Slovenia and the UK](https://www.reabic.net/journals/mbi/2020/4/MBI_2020_Crow_etal.pdf). Management of Biological Invasions 11(4):703-719.
     + Pocock MJO, Marzano M, Bullas-Appleton E, Dyke A, de Groot M, Shuttleworth CM and White R. 2020.[Ethical dilemmas when using citizen science for early detection of invasive tree pests and diseases ](https://www.reabic.net/journals/mbi/2020/4/MBI_2020_Pocock_etal.pdf). Management of Biological Invasions 11(4):720-732.
     + Slawson DD, Moffat AJ. 2020. [How Effective Are Citizen Scientists at Contributing to Government Tree Health Public Engagement and Surveillance Needs—An Analysis of the UK Open Air Laboratories (OPAL) Survey Model](https://www.mdpi.com/2075-4450/11/9/550). Insects 11(9):550. 
